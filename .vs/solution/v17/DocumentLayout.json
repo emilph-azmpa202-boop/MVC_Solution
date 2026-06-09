@@ -1,0 +1,758 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\views\\auth\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\views\\auth\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\views\\auth\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\views\\auth\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\viewmodels\\auth\\registevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\viewmodels\\auth\\registevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\viewmodels\\auth\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\viewmodels\\auth\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609131251_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:solution\\Migrations\\20260609131251_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\viewmodels\\team\\membercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\viewmodels\\team\\membercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\viewmodels\\team\\memberuivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\viewmodels\\team\\memberuivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\areas\\admin\\views\\team\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\areas\\admin\\views\\team\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\viewmodels\\team\\membervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\viewmodels\\team\\membervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\areas\\admin\\views\\team\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\areas\\admin\\views\\team\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\areas\\admin\\views\\team\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\areas\\admin\\views\\team\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609120201_CreateMemberTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:solution\\Migrations\\20260609120201_CreateMemberTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\services\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\services\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\viewmodels\\team\\memberupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\viewmodels\\team\\memberupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\viewmodels\\team\\memberdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\viewmodels\\team\\memberdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609104327_solu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:solution\\Migrations\\20260609104327_solu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609104056_Done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:solution\\Migrations\\20260609104056_Done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ikinci Novbe\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-1541233913\\RoleConstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|c:\\users\\ikinci novbe\\desktop\\solution\\solution\\helpers\\roleconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9AF97-E808-4949-BA6C-C022DCDE265D}|solution\\solution.csproj|solutionrelative:solution\\helpers\\roleconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RoleConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Helpers\\RoleConstants.cs",
+              "RelativeDocumentMoniker": "solution\\Helpers\\RoleConstants.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Helpers\\RoleConstants.cs",
+              "RelativeToolTip": "solution\\Helpers\\RoleConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:46:09.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RoleConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-1541233913\\RoleConstants.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-1541233913\\RoleConstants.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-1541233913\\RoleConstants.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-1541233913\\RoleConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:46:06.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "solution\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\AuthService.cs",
+              "RelativeToolTip": "solution\\Services\\AuthService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAtwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:18:17.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "solution\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "solution\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:16:58.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Views\\Auth\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "solution\\Views\\Auth\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Views\\Auth\\Register\\Index.cshtml",
+              "RelativeToolTip": "solution\\Views\\Auth\\Register\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T13:15:20.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Views\\Auth\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "solution\\Views\\Auth\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Views\\Auth\\Login\\Index.cshtml",
+              "RelativeToolTip": "solution\\Views\\Auth\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T13:15:12.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260609131251_identity.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609131251_identity.cs",
+              "RelativeDocumentMoniker": "solution\\Migrations\\20260609131251_identity.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609131251_identity.cs",
+              "RelativeToolTip": "solution\\Migrations\\20260609131251_identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:12:51.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "solution\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "solution\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:06:46.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "solution\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Models\\AppUser.cs",
+              "RelativeToolTip": "solution\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:06:06.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisteVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Auth\\RegisteVM.cs",
+              "RelativeDocumentMoniker": "solution\\ViewModels\\Auth\\RegisteVM.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Auth\\RegisteVM.cs",
+              "RelativeToolTip": "solution\\ViewModels\\Auth\\RegisteVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:03:50.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Auth\\LoginVM.cs",
+              "RelativeDocumentMoniker": "solution\\ViewModels\\Auth\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Auth\\LoginVM.cs",
+              "RelativeToolTip": "solution\\ViewModels\\Auth\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:03:40.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Program.cs",
+              "RelativeDocumentMoniker": "solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Program.cs",
+              "RelativeToolTip": "solution\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAD4vxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:32:18.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "solution\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "solution\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:55:19.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "solution\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "solution\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAALUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:20:57.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MemberUIVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Team\\MemberUIVM.cs",
+              "RelativeDocumentMoniker": "solution\\ViewModels\\Team\\MemberUIVM.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Team\\MemberUIVM.cs",
+              "RelativeToolTip": "solution\\ViewModels\\Team\\MemberUIVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:41:27.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "solution\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "solution\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:18:12.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "solution\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "solution\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:33:43.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Team\\Detail.cshtml",
+              "RelativeDocumentMoniker": "solution\\Areas\\Admin\\Views\\Team\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Team\\Detail.cshtml",
+              "RelativeToolTip": "solution\\Areas\\Admin\\Views\\Team\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T11:33:23.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MemberVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Team\\MemberVM.cs",
+              "RelativeDocumentMoniker": "solution\\ViewModels\\Team\\MemberVM.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Team\\MemberVM.cs",
+              "RelativeToolTip": "solution\\ViewModels\\Team\\MemberVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:41:16.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "solution\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "solution\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:21:28.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemberCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Team\\MemberCreateVM.cs",
+              "RelativeDocumentMoniker": "solution\\ViewModels\\Team\\MemberCreateVM.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Team\\MemberCreateVM.cs",
+              "RelativeToolTip": "solution\\ViewModels\\Team\\MemberCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:46:13.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "solution\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "solution\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:19:09.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeDocumentMoniker": "solution\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeToolTip": "solution\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T11:22:31.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Team\\Edit.cshtml",
+              "RelativeDocumentMoniker": "solution\\Areas\\Admin\\Views\\Team\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Team\\Edit.cshtml",
+              "RelativeToolTip": "solution\\Areas\\Admin\\Views\\Team\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T11:22:43.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Team\\Delete.cshtml",
+              "RelativeDocumentMoniker": "solution\\Areas\\Admin\\Views\\Team\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Team\\Delete.cshtml",
+              "RelativeToolTip": "solution\\Areas\\Admin\\Views\\Team\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T11:22:53.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "solution\\Services\\MemberService.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\MemberService.cs",
+              "RelativeToolTip": "solution\\Services\\MemberService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:53:30.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260609120201_CreateMemberTable.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609120201_CreateMemberTable.cs",
+              "RelativeDocumentMoniker": "solution\\Migrations\\20260609120201_CreateMemberTable.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609120201_CreateMemberTable.cs",
+              "RelativeToolTip": "solution\\Migrations\\20260609120201_CreateMemberTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T12:02:01.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\Interfaces\\IMemberService.cs",
+              "RelativeDocumentMoniker": "solution\\Services\\Interfaces\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\Interfaces\\IMemberService.cs",
+              "RelativeToolTip": "solution\\Services\\Interfaces\\IMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:53:44.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "solution\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\FileService.cs",
+              "RelativeToolTip": "solution\\Services\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:43:52.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "solution\\Services\\Interfaces\\IFileService.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Services\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "solution\\Services\\Interfaces\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:44:05.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MemberUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Team\\MemberUpdateVM.cs",
+              "RelativeDocumentMoniker": "solution\\ViewModels\\Team\\MemberUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Team\\MemberUpdateVM.cs",
+              "RelativeToolTip": "solution\\ViewModels\\Team\\MemberUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:41:49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "solution\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Models\\Member.cs",
+              "RelativeToolTip": "solution\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:28:55.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MemberDeleteVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Team\\MemberDeleteVM.cs",
+              "RelativeDocumentMoniker": "solution\\ViewModels\\Team\\MemberDeleteVM.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ViewModels\\Team\\MemberDeleteVM.cs",
+              "RelativeToolTip": "solution\\ViewModels\\Team\\MemberDeleteVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:42:42.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "solution\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "solution\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:48:27.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "solution\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "solution\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:46:03.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20260609104327_solu.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609104327_solu.cs",
+              "RelativeDocumentMoniker": "solution\\Migrations\\20260609104327_solu.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609104327_solu.cs",
+              "RelativeToolTip": "solution\\Migrations\\20260609104327_solu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:43:27.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "solution\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\appsettings.Development.json",
+              "RelativeToolTip": "solution\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T10:30:05.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "solution\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "solution\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:19:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20260609104056_Done.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609104056_Done.cs",
+              "RelativeDocumentMoniker": "solution\\Migrations\\20260609104056_Done.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Migrations\\20260609104056_Done.cs",
+              "RelativeToolTip": "solution\\Migrations\\20260609104056_Done.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:40:56.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "solution\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "solution\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:28:10.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "solution\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "solution\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowIoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:20:10.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "solution\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "solution\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:17:59.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "solution\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Ikinci Novbe\\Desktop\\solution\\solution\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "solution\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-09T10:17:02.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

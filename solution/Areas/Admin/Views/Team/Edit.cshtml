@@ -1,0 +1,46 @@
+﻿@using solution.ViewModels.Team
+@model MemberUpdateVM
+
+<form method="post"
+      enctype="multipart/form-data">
+
+    <input asp-for="Id" hidden />
+
+    <div class="mb-3 text-center">
+
+        <img src="~/uploads/team/@Model.Image"
+             width="150"
+              />
+
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Name"></label>
+        <input asp-for="Name"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Job"></label>
+        <input asp-for="Job"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description"
+                  class="form-control"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Photo"></label>
+        <input asp-for="Photo"
+               class="form-control" />
+    </div>
+
+    <button type="submit"
+            class="btn btn-warning">
+        Update
+    </button>
+
+</form>

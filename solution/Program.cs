@@ -1,0 +1,72 @@
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using solution.Data;
+using solution.Models;
+using solution.Services;
+using solution.Services.Implementations;
+using solution.Services.Interfaces;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddControllersWithViews();
+
+// Database
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+
+// Services
+builder.Services.AddScoped<IFileService, FileService>();
+builder.Services.AddScoped<IMemberService, MemberService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
+
+// Account
+
+builder.Services.AddIdentity<AppUser, IdentityRole>()
+    .AddEntityFrameworkStores<AppDbContext>()
+    .AddDefaultTokenProviders();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+}
+app.UseStaticFiles();
+
+app.UseRouting();
+
+// Authentication must come before Authorization
+app.UseAuthentication();
+app.UseAuthorization();
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapAreaControllerRoute(
+        name: "admin",
+        areaName: "admin",
+        pattern: "admin/{controller=Places}/{action=Index}/{id?}");
+
+    endpoints.MapControllerRoute(
+        name: "default",
+        pattern: "{controller=Home}/{action=Index}/{id?}");
+});
+
+// Seed required roles
+using (var scope = app.Services.CreateScope())
+{
+    var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+    var roles = new[] { "User" };
+
+    foreach (var role in roles)
+    {
+        var exists = roleManager.RoleExistsAsync(role).GetAwaiter().GetResult();
+        if (!exists)
+        {
+            roleManager.CreateAsync(new IdentityRole(role)).GetAwaiter().GetResult();
+        }
+    }
+}
+
+app.Run();

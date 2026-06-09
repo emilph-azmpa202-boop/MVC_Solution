@@ -1,0 +1,44 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using solution.Services.Interfaces;
+using solution.ViewModels.Auth;
+
+public class AccountController : Controller
+{
+    private readonly IAuthService _accountService;
+
+    public AccountController(IAuthService accountService)
+    {
+        _accountService = accountService;
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Register(RegisterVM model)
+    {
+        if (!ModelState.IsValid)
+            return View(model);
+
+        await _accountService.RegisterAsync(model);
+        return RedirectToAction("Index", "Home");
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Login(LoginVM model)
+    {
+        var result = await _accountService.LoginAsync(model);
+
+        if (!result)
+        {
+            ModelState.AddModelError("", "Login failed");
+            return View(model);
+        }
+
+        return RedirectToAction("Index", "Home");
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Logout()
+    {
+        await _accountService.LogoutAsync();
+        return RedirectToAction("Login");
+    }
+}

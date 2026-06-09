@@ -1,0 +1,37 @@
+﻿@using solution.ViewModels.Team
+@model MemberVM
+
+<div class="card">
+
+    <div class="card-body">
+
+        <div class="text-center">
+
+            <img src="~/uploads/team/@Model.Image"
+                 width="200"
+                  />
+
+        </div>
+
+        <table class="table table-bordered">
+
+            <tr>
+                <th>Name</th>
+                <td>@Model.Name</td>
+            </tr>
+
+            <tr>
+                <th>Job</th>
+                <td>@Model.Job</td>
+            </tr>
+
+            <tr>
+                <th>Description</th>
+                <td>@Model.Description</td>
+            </tr>
+
+        </table>
+
+    </div>
+
+</div>

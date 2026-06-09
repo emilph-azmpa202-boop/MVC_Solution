@@ -1,0 +1,6 @@
+﻿namespace solution.Helpers
+{
+    public class RoleConstants
+    {
+    }
+}

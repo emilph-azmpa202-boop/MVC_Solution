@@ -1,0 +1,11 @@
+﻿using solution.ViewModels.Auth;
+
+namespace solution.Services.Interfaces
+{
+    public interface IAuthService
+    {
+        Task RegisterAsync(RegisterVM model);
+        Task<bool> LoginAsync(LoginVM model);
+        Task LogoutAsync();
+    }
+}
